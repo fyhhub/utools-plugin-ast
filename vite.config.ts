@@ -23,10 +23,10 @@ export default defineConfig(() => {
         }
         : {
             lib: {
-                entry: resolve(__dirname, './lib/main.ts'),
+                entry: resolve(__dirname, './preload/preload.ts'),
                 name: 'myLib',
                 formats: ['umd'],
-                fileName: () => `main.js`
+                fileName: () => `preload.js`
             },
         }
 

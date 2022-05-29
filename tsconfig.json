@@ -19,7 +19,8 @@
     "isolatedModules": true,
     "noEmit": true,
     "typeRoots": [
-      "../node_modules/@types"
+      "../node_modules/@types",
+      "./node_modules/utools-api-types",
     ]
   },
   "exclude": ["vite.config.ts"]

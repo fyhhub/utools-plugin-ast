@@ -1,6 +1,6 @@
 {
     "main": "./dist/index.html",
-    "preload": "./dist/main.js",
+    "preload": "./dist/preload.js",
     "logo": "logo.png",
     "features": [
         {
