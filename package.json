@@ -1,5 +1,5 @@
 {
-  "name": "utools-template",
+  "name": "utools-plugin-ast",
   "version": "0.0.1",
   "scripts": {
     "dev": "yarn dev:ui & yarn dev:main",
