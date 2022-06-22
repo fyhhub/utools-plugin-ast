@@ -1,7 +1,5 @@
 
-
 utools.onPluginEnter(() => {
-    // utools.showNotification('hello')
+  utools.setExpendHeight(700)
 })
-
 export {}

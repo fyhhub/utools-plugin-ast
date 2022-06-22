@@ -3,12 +3,11 @@
     "preload": "./dist/preload.js",
     "logo": "logo.png",
     "features": [
-        {
-            "code": "hello",
-            "explain": "Plugin Template",
-            "cmds": [
-                "hello"
-            ]
-        }
+      {
+        "code": "ast",
+        "cmds": [
+          "ast"
+        ]
+      }
     ]
 }
